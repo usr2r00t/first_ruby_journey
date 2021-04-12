@@ -1,2 +1,0 @@
-truthy = true 
-puts truthy

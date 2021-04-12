@@ -1,1 +1,1 @@
-# first_ruby_journey
+# Here is some of my Ruby exercises
